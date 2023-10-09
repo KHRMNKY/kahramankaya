@@ -10,13 +10,9 @@
 
 <div align="center">
  
- 🔭 
- 
  🌱 I’m currently learning **DataScience, Python, Java**
 
  💬 Ask me about ** Datascience, Python or anything [here](https://github.com/kahramankaya/kahramankaya/issues)**
-
- ⚡ 
  
  </div>
  
@@ -26,6 +22,12 @@
   </a>
   <a href="https://www.linkedin.com/in/kahraman-kaya-685a21202/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+
+  </a>
+  <a href="[https://www.linkedin.com/in/kahraman-kaya-685a21202/](https://twitter.com/KHRMN_KY)" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
+
+      
   </a>
   <a href="https://kahramankaya.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
