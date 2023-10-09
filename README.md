@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 
   </a>
-  <a href="[https://www.linkedin.com/in/kahraman-kaya-685a21202/](https://twitter.com/KHRMN_KY)" target="_blank">
+  <a href="https://twitter.com/KHRMN_KY" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
 
       
